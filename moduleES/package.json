@@ -1,0 +1,28 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Este repositorio es parte de un curso introductorio de Node.js, diseñado para ayudarte a aprender los fundamentos de Node.js y npm.",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-ardila/Nodejs.git"
+  },
+  "Keywords": [
+    "js",
+    "commonJS",
+    "node",
+    "moduleES"
+  ],
+  "author": "Miguel-Ardila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel-ardila/Nodejs/issues"
+  },
+  "homepage": "https://github.com/miguel-ardila/Nodejs#readme",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
